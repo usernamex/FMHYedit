@@ -244,6 +244,7 @@
 
 * 🌐 **[2FA Directory](https://2fa.directory/)** - List of Sites with 2FA Support / [GitHub](https://github.com/2factorauth/twofactorauth)
 * ↪️ **[Password Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_password_managers)**
+* ⭐ **[Proton Authenticator](https://proton.me/authenticator)** - 2FA / All Platforms
 * ⭐ **[Ente Auth](https://ente.io/auth/)** - 2FA / All Platforms / [Discord](https://discord.gg/z2YVKkycX3) / [GitHub](https://github.com/ente-io/ente)
 * ⭐ **[Aegis](https://getaegis.app/)** - 2FA / Android / [X](https://x.com/beemdevelopment) / [GitHub](https://github.com/beemdevelopment/Aegis)
 * ⭐ **[Stratum](https://stratumauth.com)** - 2FA / Android / [GitHub](https://github.com/stratumauth/app)
